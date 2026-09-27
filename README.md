@@ -22,7 +22,7 @@ The most valuable part of the project was not simply getting Active Directory ru
 | **Core tools** | Azure Portal, Server Manager, ADUC, GPMC, ADAC, PowerShell, VS Code |
 | **Automation** | 7 PowerShell scripts |
 | **Build time** | Completed across multiple lab sessions |
-| **Final cost** | _Add final Azure Cost Analysis total before publishing_ |
+| **Cost controls** | Auto-shutdown configured; VMs stopped/deallocated between work sessions |
 
 ## Skills demonstrated
 
