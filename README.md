@@ -6,7 +6,7 @@ I built a Windows Server 2025 Active Directory domain in Azure around `lab.local
 
 The most valuable part of the project was not simply getting Active Directory running. It was learning where different policy types actually belong, proving that the policies reached the intended users and computers, and correcting several assumptions in the source lab when the real environment behaved differently.
 
-🎥 **Walkthrough video:** _Coming after final repository review._
+🎥 **Walkthrough video:** [Watch my Lab 01 walkthrough on Loom](https://www.loom.com/share/6561c8539d2b483a967d7a1e31b8915f)
 
 ## Project snapshot
 
